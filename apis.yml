@@ -1,0 +1,32 @@
+aid: kutt
+name: Kutt
+description: "Free Modern URL Shortener"
+url: https://docs.kutt.it/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "URL Shorteners"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - URL Shorteners
+  - Public APIs
+apis:
+  - name: Kutt
+    description: "Free Modern URL Shortener"
+    humanURL: https://docs.kutt.it/
+    baseURL: https://docs.kutt.it/
+    tags:
+      - URL Shorteners
+    properties:
+      - type: Documentation
+        url: https://docs.kutt.it/
+common:
+  - type: Website
+    url: https://docs.kutt.it/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
